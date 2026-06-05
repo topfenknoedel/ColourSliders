@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1625802185"/>
+  <Params Value="-MObjFPC -Scghi -Cg -O1 -gw3 -gl -l -vewnhibq &apos;-Fi/home/winux/Documents/Lazarus Projekte/KUe P5 Graphik/lib/x86_64-linux&apos; &apos;-Fu/home/winux/Documents/Lazarus Projekte/KUe P5 Graphik/&apos; -Fu/usr/share/lazarus/4.6.0/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/4.6.0/lcl/units/x86_64-linux -Fu/usr/share/lazarus/4.6.0/components/freetype/lib/x86_64-linux -Fu/usr/share/lazarus/4.6.0/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/4.6.0/packager/units/x86_64-linux &apos;-FU/home/winux/Documents/Lazarus Projekte/KUe P5 Graphik/lib/x86_64-linux/&apos; &apos;-FE/home/winux/Documents/Lazarus Projekte/KUe P5 Graphik/&apos; &apos;-o/home/winux/Documents/Lazarus Projekte/KUe P5 Graphik/project1&apos; -dLCL -dLCLgtk2 project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
